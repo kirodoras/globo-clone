@@ -303,7 +303,14 @@ p {
     h4 {
         display: none;
     }
-
+    p {
+        width: 100%;
+        text-align: justify;
+        font-weight: 400;
+        font-size: 15.5px;
+        line-height: 19px;
+        letter-spacing: -0.048em;
+    }
     .red-row-img {
         flex-wrap: wrap;     
         border-bottom: none;
@@ -319,14 +326,14 @@ p {
         font-size: 16px;
         line-height: 19px;
         letter-spacing: -0.048em;
-        margin-left: 13.5px;
+        margin-left: 10px;
         float: left;
     }
     .red-img ,.side-img{
         width: 120px;
         height: 67.37px;
-        margin-left: 13.5px;
-        margin-right: 13.5px;
+        margin-right: 10px;
+        border-radius: 4px;
         float: left;
     }
     .red-card {
@@ -335,7 +342,7 @@ p {
         border-bottom: 1px solid #EBEDEF;
     }
     .red-card h4,h3,p{
-        margin-left: 13.5px;
+        margin-left: 10px;
     }
     /*SIDE BOX - MOBILE*/
     .green-box h1,.green-box h2,.green-box h3,.green-box p{

@@ -1,2 +1,2 @@
-# projeto1-globo
+# Globo Clone
  Primeiro projeto da Driven
